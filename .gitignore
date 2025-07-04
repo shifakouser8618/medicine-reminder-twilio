@@ -1,0 +1,14 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+.env
+uploads/
+voices/
+
+# Node (if React or JS frontend)
+node_modules/
+dist/
+build/
+.env
